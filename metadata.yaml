@@ -1,0 +1,32 @@
+_repo: Twenty-Two-Years-a-Slave-and-Forty-Years-a-Freeman--13-Embracing-a-Correspondence-of-Several-__11137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steward, Austin
+    alias: Steward, A. (Austin)
+    birthdate: 1794
+    deathdate: 1860
+    gutenberg_agent_id: '3858'
+    url: http://www.gutenberg.org/2009/agents/3858
+description: ''
+gutenberg_bookshelf:
+- Slavery
+- African American Writers
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- Biography'
+- !lcc 'E300'
+- !lcsh 'Steward, Austin, 1794-1860'
+- !lcsh 'Slavery -- Virginia'
+- !lcsh 'Wilberforce Colony'
+- GITenberg
+title: "Twenty-Two Years a Slave, and Forty Years a Freeman\r\nEmbracing a Correspondence\
+  \ of Several Years, While President of Wilberforce Colony, London, Canada West"
+url: http://www.gutenberg.org/ebooks/11137
